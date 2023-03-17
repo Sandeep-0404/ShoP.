@@ -47,7 +47,7 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: "https://www.burdastyle.com/media/catalog/product/cache/28b15debbe306f5383d52e984e6c5dbf/107/BUS-PAT-BURTE-1091216/1170x1470_BS_2016_12_109_front.png",
+    img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
   },
   {
     id: 3,
@@ -55,7 +55,7 @@ export const popularProducts = [
   },
   {
     id: 4,
-    img: "https://www.burdastyle.com/media/catalog/product/cache/28b15debbe306f5383d52e984e6c5dbf/107/BUS-PAT-BURTE-1101216/1170x1470_BS_2016_12_110_front.png",
+    img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
   },
   {
     id: 5,
@@ -67,7 +67,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://www.burdastyle.com/media/catalog/product/cache/28b15debbe306f5383d52e984e6c5dbf/106/BUS-PAT-BURTE-1280917/1170x1470_BS_2017_09_128B_Heft.png",
+    img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
   },
   {
     id: 8,
